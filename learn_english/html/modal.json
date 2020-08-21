@@ -1,0 +1,27 @@
+{
+"bt":{
+         "date":"2020-08-08",
+         "author":"Biswajit Thakur"
+              },
+"modal_verbs":{
+   "can":{
+     "ex":[
+       {"en":"She can cook",
+        "bn":null
+       },
+       {"en":"She can dance",
+        "bn":null
+       },
+       {"en":"she can not dance",
+        "bn":null
+       },
+       
+          ]
+         },
+   "could":{
+           }
+              
+              }
+
+
+}
